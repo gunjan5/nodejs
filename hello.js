@@ -6,3 +6,6 @@ var myServer = http.createServer( function(request, response) {
 });
 
 myServer.listen(3000);
+
+
+console.log("go to localhost:3000 in your browser");
