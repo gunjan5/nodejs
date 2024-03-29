@@ -9,6 +9,6 @@
   "author": "gunjan5",
   "license": "ISC",
   "dependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^5.0.0"
   }
 }
